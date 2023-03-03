@@ -1,0 +1,6 @@
+<svg class="background">
+  <text id="chargePercent" />
+  <text id="time" />
+  <text id="secs" />
+  <text id="secondTime" />
+</svg>

@@ -1,0 +1,43 @@
+.background {
+  viewport-fill: black;
+}
+
+#time {
+  font-size: 70;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 75%;
+  y: 25%+40;
+  fill: blue;
+}
+
+#secondTime {
+  font-size: 50;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 65%;
+  y: 40%+40;
+  fill: aqua;
+}
+
+#secs {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 75%;
+  y: 25%+40;
+  fill: blue;
+}
+
+#chargePercent {
+  font-size: 20;
+  font-family: System-Regular;
+  text-anchor: start;
+  text-length: 10;
+  x: 20%;
+  y: 10%;
+  fill: green;
+}

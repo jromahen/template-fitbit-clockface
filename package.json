@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "a17e1e2e-51bf-4f24-a3ee-651080d22849",
+    "appType": "clockface",
+    "appDisplayName": "Mission Control Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Mission Control Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
